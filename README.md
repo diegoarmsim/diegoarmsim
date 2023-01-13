@@ -18,3 +18,25 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
   </a>
 </p>
+<a href="https://github.com/charly3pins">
+	<img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/diegoarmsim">
+	<img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/diegoarmsim">
+	<img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+<a href="https://github.com/diegoarmsim">
+	<img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+<a href="https://github.com/diegoarmsim">
+	<img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+<a href="https://github.com/diegoarmsim">
+	<img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/diegoarmsim">
+	<img align="center" width="49%" src="./achievements.svg" />
+</a>
