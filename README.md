@@ -3,22 +3,24 @@
    <h3 align="center">¡Hey 👋! Soy Diego 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy Programador y Administrador de Sistemas con años experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">Soy Programador y Administrador de Sistemas con algunos años experiencia.<br />¡Revisa mi contenido 👇!</p>
 <p align="center">
-   <a href="https://twitch.tv/mi" target="blank" style='margin-right:4px'>
+   <a href="https://twitch.tv/zhimbaya" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="midudev" height="28px" width="28px" />
   </a>
-   <a href="https://youtube.com/@diegoinfotech4759" target="blank" style='margin-right:4px'>
+   <a href="https://youtube.com/@zhimbaya" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
   </a>
-  <a href="https://instagram.com/zhimbaya_photographer" target="blank">
+  <a href="https://instagram.com/zhimbaya" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
   </a>
-  <a href="https://twitter.com/diegoarmsim" target="blank">
+  <a href="https://twitter.com/zhimbaya" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
   </a>
 </p>
 <p align="center">Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!</p>
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
 ## Tecnologías:
 
@@ -37,16 +39,16 @@ Y alguna más...
 </br>
 
 ## Encuéntrame en:
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/zhimbaya)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/zhimbaya)
-[![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@zhimbaya)
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/zhimbaya)
+[![Twitter](https://img.shields.io/badge/Twitter-@zhimbaya-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/zhimbaya)
+[![Instagram](https://img.shields.io/badge/Instagram-@zhimbaya-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/zhimbaya)
+[![TikTok](https://img.shields.io/badge/TikTok-@zhimbaya-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@zhimbaya)
+[![Facebook](https://img.shields.io/badge/Facebook-@zhimbaya-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/zhimbaya)
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/diegosimbana)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diegosimbana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/diegosimbana)
+[![Web](https://img.shields.io/badge/Web-zhimbaya.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://zhimbaya.com)
 <br>
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@zhimbaya)
-[![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
+[![YouTube](https://img.shields.io/badge/YouTube-zhimbaya-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@zhimbaya)
+[![Twitch](https://img.shields.io/badge/Twitch-zhimbaya-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/zhimbaya)
 </br>
 <!--
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
